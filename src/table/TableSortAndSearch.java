@@ -24,7 +24,7 @@ public class TableSortAndSearch {
         driver.manage().timeouts().pageLoadTimeout(5, TimeUnit.SECONDS);
         driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
 
-//        testTableSort();
+        testTableSort();
         testSearch();
 
         driver.quit();
