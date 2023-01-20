@@ -10,5 +10,7 @@
     <orderEntry type="library" name="client-combined-3.141.0" level="project" />
     <orderEntry type="library" name="byte-buddy-1.8.15" level="project" />
     <orderEntry type="library" name="webdrivermanager-5.3.1-fat" level="project" />
+    <orderEntry type="library" name="webdrivermanager-5.3.1-fat1" level="project" />
+    <orderEntry type="library" name="assertj-core-3.24.2-javadoc" level="project" />
   </component>
 </module>
